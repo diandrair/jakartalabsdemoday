@@ -1,0 +1,10 @@
+com/jakartalabsassignment/pageObjects/TutorialPage.class
+com/jakartalabsassignment/pageObjects/LoginPage.class
+com/jakartalabsassignment/pageObjects/DeliveryPage.class
+com/jakartalabsassignment/utils/BrowserActions.class
+com/jakartalabsassignment/pageObjects/BuildCardPage.class
+com/jakartalabsassignment/pageObjects/HomePage.class
+com/jakartalabsassignment/pageObjects/FeaturesPage.class
+com/jakartalabsassignment/pageObjects/DashboardPage.class
+com/jakartalabsassignment/utils/APIActions.class
+com/jakartalabsassignment/diandra_irdianti/App.class

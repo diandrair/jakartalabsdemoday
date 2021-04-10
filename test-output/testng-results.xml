@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-10T23:38:40 WIB" name="Default suite" finished-at="2021-04-10T23:39:24 WIB" duration-ms="43698">
+    <groups>
+    </groups>
+    <test started-at="2021-04-10T23:38:40 WIB" name="Default test" finished-at="2021-04-10T23:39:24 WIB" duration-ms="43698">
+      <class name="com.jakartalabsassignment.diandra_irdianti.BuilderAPITest">
+        <test-method signature="signUpAPI()[pri:1, instance:com.jakartalabsassignment.diandra_irdianti.BuilderAPITest@5a955565]" started-at="2021-04-10T23:38:40 WIB" name="signUpAPI" finished-at="2021-04-10T23:38:52 WIB" duration-ms="11545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpAPI -->
+        <test-method signature="setCurrencyAPI()[pri:2, instance:com.jakartalabsassignment.diandra_irdianti.BuilderAPITest@5a955565]" started-at="2021-04-10T23:38:52 WIB" name="setCurrencyAPI" finished-at="2021-04-10T23:39:21 WIB" duration-ms="28873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCurrencyAPI -->
+        <test-method signature="profileAPI()[pri:3, instance:com.jakartalabsassignment.diandra_irdianti.BuilderAPITest@5a955565]" started-at="2021-04-10T23:39:21 WIB" name="profileAPI" finished-at="2021-04-10T23:39:22 WIB" duration-ms="1691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileAPI -->
+        <test-method signature="signOutAPI()[pri:4, instance:com.jakartalabsassignment.diandra_irdianti.BuilderAPITest@5a955565]" started-at="2021-04-10T23:39:22 WIB" name="signOutAPI" finished-at="2021-04-10T23:39:24 WIB" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOutAPI -->
+      </class> <!-- com.jakartalabsassignment.diandra_irdianti.BuilderAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
